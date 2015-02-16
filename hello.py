@@ -5,4 +5,3 @@ from check import check
 greeting('hello')
 greeting('goodbye')
 check('yo')
-greeting('sup')
