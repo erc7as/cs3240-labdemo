@@ -1,3 +1,8 @@
 __author__ = 'erc7as'
 
-print('hello')
+
+def greeting(msg):
+    print(msg)
+
+
+greeting('hello')
